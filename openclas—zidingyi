@@ -1,0 +1,32 @@
+# 内容：乱七八糟规则匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 乱七八糟规则匹配
+
+###内网ip不要走这个，尤其是pt流量下载器等
+- DOMAIN-SUFFIX,
+183.61.227.215;
+36.110.186.156;
+8.134.161.2;
+
+*.hugiq.com;
+*.erp321.com;
+*.erp321.cn;
+*.jinritemai.com;
+*.jinritemai.cn;
+*.jinritemai.com.cn;
+*.bytedance.com;
+*.bytedance.cn;
+*.bytedance.com.cn;
+*.oceanengine.com;
+*.oceanengine.cn;
+*.oceanengine.com.cn;
+*.zijieapi.com;
+*.zijieapi.cn;
+*.feishu.com;
+*.feishu.cn;
+accounts.feishu.cn;
+*.ctobsnssdk.com;
+*.bytescn.com;
+*.m-team.cc;
